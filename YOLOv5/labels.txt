@@ -1,0 +1,45 @@
+indirim
+ucretsiz
+avantaj
+fiyat
+tl
+efsane
+hemen
+firsat
+kacirma
+simdi
+kazanma
+hediye
+festival
+bedava
+sans
+sepet
+uzeri
+urun
+magaza
+kazan
+kampanya
+yuzde              (% simgesi)
+alisveris
+ozel
+cekilis
+varan
+katil
+hediye
+incele
+market
+taksit
+siparis
+
+
+
+NOT: Mesela verisetinizd "fırsat" da olsa "fırsatlarını" da olsa bunları etiketlerken "firsat" olarak etiketlicez okey...
+veya "indirim" de olsa "indirimler" de olsa "indirimlerde" de olsa bunları tek bir sekilde etiketleyeceğiz oda "indirim" şeklinde
+-kürşat : okey
+-musa : okey
+
+SpamImage29_1.png  1 den 0 yapıldı
+SpamImage27_1.png  1 den 0 yapıldı
+SpamImage115_1.png boş
+
+tekrar bakılacak - 123 - 104 - 12 - 31
